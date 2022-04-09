@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Status
-![Stats](https://github-readme-stats.vercel.app/api?username=ASHARALORAN96&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHARALORAN96&count_private=true&show_icons=true&theme=dracula)
 ### Lang 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHARALORAN96&theme=dark)
 
