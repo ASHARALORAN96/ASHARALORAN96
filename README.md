@@ -5,11 +5,10 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Luminus Group as Junior Software developer 
+- 🔭 I’m currently working on Tahaluf AlEmarat for technical solutions as Software Engineer 
 - 🌱 I’m currently learning React, Typescript, NodeJs Pro tips
 - 💬 Ask me about :Javascript , NodeJs, ReactJs
 - 📫 How to reach me: **asharoran96@gmail.com** 
-- 😄 Fun Fact: I like to work under pressure
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
