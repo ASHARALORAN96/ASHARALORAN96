@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tahaluf AlEmarat for technical solutions as Software Engineer 
 - 🌱 I’m currently learning React, Typescript, NodeJs Pro tips
-- 💬 Ask me about :Javascript , NodeJs, ReactJs
+- 💬 Ask me about :Javascript , NodeJs, Angular, ts, mongoDB
 - 📫 How to reach me: **asharoran96@gmail.com** 
 
 ### Languages & Tools
